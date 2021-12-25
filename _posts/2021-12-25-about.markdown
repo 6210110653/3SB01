@@ -1,0 +1,14 @@
+---
+layout: page
+title: About Me
+permalink: /about/
+---
+
+![](https://scontent.fhdy3-1.fna.fbcdn.net/v/t1.18169-9/13230333_1082495271794470_6303840814303576994_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFjErdIlkN7UVuguWbzDEklGAUqQEM7dEEYBSpAQzt0Qa2C1MHbBtIpeHSb0eakwIEC5JaT6XEZGAbsnV57jwYf&_nc_ohc=XWlvIqrQj2IAX-bx19d&_nc_ht=scontent.fhdy3-1.fna&oh=00_AT-t8aKzIp99ss5MJyaymX4dUtxlIp82ibHMe0fwwsKdgA&oe=61EE96A1)
+
+# นาย ณัฐพัฒน์ สุรปรีชากุล 6210110653
+- อายุ 21 ปี
+- จบ ม.ปลาย จากโรงเรียนหาดใหญ่วิทยาลัย
+- ปัจจุบันกำลังศึกษาชั้นปีที่ 3 มหาลัยสงขลานครินทร์ 
+- คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมคอมพิวเตอร์
+
